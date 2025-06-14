@@ -30,7 +30,7 @@ A mobile app built with React Native to display a list of products with filterin
 
 ## 🛠 How to Run
 ```bash
-git clone https://github.com/joetechster/lights-on-heights-assessment.git
-cd lights-on-heights-assessment
+git clone https://github.com/joetechster/e-commerce-assessment.git
+cd e-commerce-assessment
 npm install
 npx expo start 
